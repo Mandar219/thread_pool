@@ -36,7 +36,7 @@ This project uses **CMake** for its build system.
 ```bash
 # Clone the repository
 git clone https://github.com/Mandar219/thread_pool.git
-cd cpp-task-scheduler
+cd thread_pool
 
 # Create a build directory and navigate into it
 mkdir build && cd build
